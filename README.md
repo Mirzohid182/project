@@ -1,2 +1,2 @@
-# project
-Uchebniy proect
+# project Uchebniy proect
+Vipolnil : Janiev Mirzokhid
