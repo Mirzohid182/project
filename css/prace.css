@@ -1,0 +1,40 @@
+:root {
+  --color1: #f6bd60;
+  --color2: #f7ede2;
+  --color3: #f5cac3;
+  --color4: #84a59d;
+  --color5: #f28482;
+  --color6: #718355;
+}
+.card-img-top {
+  width: 70%;
+  height: 70%;
+  text-align: center;
+  align-items: center;
+  display: block;
+  margin: auto;
+}
+body {
+  font-size: 20px;
+}
+.navbar {
+  background-color: var(--color6);
+}
+.br_heading {
+  margin-top: 50px;
+}
+.img-block {
+  display: inline;
+  width: 100%;
+  height: 100%;
+  margin: none;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: var(--color5);
+  font-size: 22px;
+}
+a:hover {
+  color: var(--color1);
+}
